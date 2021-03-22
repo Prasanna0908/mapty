@@ -1,0 +1,30 @@
+/* Big tablet to 1200px (widths smaller taht the 1140px row) */
+@media only screen and (max-width: 1200px){
+    .sidebar {
+        width:60%
+  
+    }
+}
+
+@media only screen and (max-width: 1023px){
+     .sidebar {
+  width:60%
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+    .sidebar {
+  width:60%
+    }
+}
+}
+
+@media only screen and (max-width: 480px){
+    .sidebar {
+  width:60%
+    }
+}
+
+   
+
